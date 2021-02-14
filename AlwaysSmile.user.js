@@ -5,6 +5,8 @@
 // @description    Automatically redirects valid Amazon URLs to their Amazon Smile equivalent.
 // @match          http*://www.amazon.tld/*
 // @exclude-match  http*://www.amazon.jobs/*
+// @homepageURL    https://github.com/tobeannouncd/userscripts
+// @downloadURL    https://github.com/tobeannouncd/userscripts/raw/main/AlwaysSmile.user.js
 // @run-at         document-start
 // ==/UserScript==
 
