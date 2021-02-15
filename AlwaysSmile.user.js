@@ -2,9 +2,9 @@
 // @name           Always Smile
 // @namespace      github.com/tobeannouncd
 // @author         tobeannouncd
-// @version        0.1
+// @version        0.11
 // @description    Automatically redirects valid Amazon URLs to their Amazon Smile equivalent.
-// @match          http*://www.amazon.tld/*
+// @match          http*://www.amazon.com/*
 // @exclude-match  http*://www.amazon.jobs/*
 // @homepageURL    https://github.com/tobeannouncd/userscripts
 // @downloadURL    https://github.com/tobeannouncd/userscripts/raw/main/AlwaysSmile.user.js
