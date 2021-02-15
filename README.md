@@ -1,5 +1,5 @@
 # userscripts
-Collection of various userscripts
+A collection of various userscripts that I made. I might throw these up on [Greasy Fork](greasyfork.org) at some point.
 
 ---
 
